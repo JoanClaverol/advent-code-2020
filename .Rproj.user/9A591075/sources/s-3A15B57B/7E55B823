@@ -1,0 +1,24 @@
+{
+    "id": "7E55B823",
+    "path": "~/personal/training/advent-of-code-2020/R/day-1.R",
+    "project_path": "R/day-1.R",
+    "type": "r_source",
+    "hash": "3527383221",
+    "contents": "",
+    "dirty": true,
+    "created": 1607075743001.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "64,1",
+        "scrollLine": "8"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1607076587,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1607076602563,
+    "read_only": false,
+    "read_only_alternatives": []
+}
