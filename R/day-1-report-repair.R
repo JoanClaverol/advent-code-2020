@@ -70,6 +70,13 @@ for (v1 in seq_len(input)) {
 # other solutions ---------------------------------------------------------
 
 # part 1 
-
+## option 1
+sum2 <- function(input, target) {
+  for (i in input) for (j in input) if (i + j == target) return(i * j)
+}
+sum2(input, 2020)
+## option 2
+prod(input[input %in% (2020 - input)])
 
 # part 2
+prod(input[input %in% (2020 - outer(input, input, "+"))])
